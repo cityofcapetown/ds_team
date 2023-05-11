@@ -1,2 +1,5 @@
-# ds_team
-An overview of the Data Science functions
+<img src="img/city_emblem.png" alt="City Logo"/>
+
+# City of Cape Town Data Science Positions
+
+
