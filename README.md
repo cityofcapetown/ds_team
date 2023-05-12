@@ -4,7 +4,7 @@
 
 ## About Us
 
-We are a central Data Science team that collaborate with our colleagues across the organisation on a wide range of projects, such as finance, water, energy, urban waste, transport, safey and securty, health, and more.  We use data to provide insights and reduce uncertainty for the organisation, to help focus actions that ultimately benefit Cape Town residents and industries.    
+We are a central Data Science team that collaborate with our colleagues across the organisation on a wide range of projects, such as finance, water, energy, urban waste, transport, safey and securty, health, and more.  We use data and our technical skills to provide insights and reduce uncertainty for the organisation, to help focus actions that ultimately benefit Cape Town residents and industries.    
 
 ## Why do we exist?
 
