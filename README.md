@@ -33,7 +33,7 @@ When it comes to data science products, the team is encouraged to test and try o
 
 ### Embrace Open Source
 
-We use open source technologies, for which we are grateful, and try and contribute to the community where we can.  To date we have not come across a problem, in the organisation that cannot be solved with open source technologies.   This enables us to be flexible and agile to deliver on stakeholders needs and not be constraint by procurement challenges.
+We use open source technologies, for which we are grateful, and try and contribute to the community where we can.  To date we have not come across an organisational problem that cannot be solved with open source technologies.   This enables us to be flexible and agile to deliver on stakeholders needs and not be constraint by procurement challenges.
 
 ### Transparency
 
