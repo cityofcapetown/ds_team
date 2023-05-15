@@ -4,7 +4,7 @@
 
 ## About Us
 
-We are a central Data Science team that collaborate with our colleagues across the organisation on a wide range of projects, such as finance, water, energy, urban waste, transport, safey and securty, health, and more.  We use data and our technical skills to provide insights and reduce uncertainty for the organisation, to help focus actions that ultimately benefit Cape Town residents and industries.    
+We are a central Data Science team that collaborate with our colleagues across the organisation on a wide range of projects, such as finance, water, energy, urban waste, transport, safey and securty, health, and more.  We use data and our technical skills to provide insights and reduce uncertainty, to help the organisation focus their actions and ultimately benefit Cape Town residents and industries.    
 
 ## Why do we exist?
 
@@ -41,11 +41,12 @@ We are open and transparent about our development process, with project plans, c
 
 ### Continuous learning
 
-Open source projects are constantly evolving and improving, which requires team members to stay up-to-date with new technologies and best practices. This creates a culture of continuous learning, where team members are encouraged to develop their skills and share their knowledge with others.
+The Data Analytics/Science landscape and open source projects are constantly evolving and improving, which requires team members to stay up-to-date with new technologies and best practices. This creates a culture of continuous learning, where team members are encouraged to develop their skills and share their knowledge with others.
 
 ## Data Science Positions
 
-* [Data Visualisation Engineer](https://github.com/cityofcapetown/ds_team/blob/main/docs/data_visualisation_engineer.md)
+* [Data Analyst](https://github.com/cityofcapetown/ds_team/blob/main/docs/data_analyst.md)
+* [Data Visualisation Engineer](https://github.com/cityofcapetown/ds_team/blob/main/docs/data_visualisation_engineer.md) ```(1 vacancy)```
 
 
 
