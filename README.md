@@ -46,7 +46,7 @@ The Data Analytics/Science landscape and open source projects are constantly evo
 ## Data Science Positions
 
 * [Data Scientist](https://github.com/cityofcapetown/ds_team/blob/main/docs/data_scientist.md)
-* [Data Analyst](https://github.com/cityofcapetown/ds_team/blob/main/docs/data_analyst.md)
+* [Data Analyst](https://github.com/cityofcapetown/ds_team/blob/main/docs/data_analyst.md) ```(1 vacancy)```
 * [Data Visualisation Engineer](https://github.com/cityofcapetown/ds_team/blob/main/docs/data_visualisation_engineer.md) ```(1 vacancy)```
 
 
