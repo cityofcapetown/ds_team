@@ -1,11 +1,11 @@
-# Data Visualisation Engineer
+# Front End Developer (Data)
 
 ## Purpose
 
 *  To develop bespoke user facing (front-end) data products that support and inform the organisation's strategic and operational decisions, and ultimately, to provide benefit to the residents of Cape Town.
 
 ## Overview
-*  The Data Visualisation Engineer works closely with the Data Science team to :
+*  The Front End Developer (Data) works closely with the Data Science team to :
 
     * help tell a complex story through engaging visualisations and user experiences. They also help explain how a story relates to an individual.
 
@@ -15,7 +15,7 @@
 
     * help structure tasks and deliver them within agreed timeframes.
 
-* The Data Visualisation Engineer must at least have an understanding of the three fundamental front-end technologies (HTML, CSS and JavaScript)
+* The Front End Developer (Data) must at least have an understanding of the three fundamental front-end technologies (HTML, CSS and JavaScript)
 
 ## Skills needed
 
@@ -45,7 +45,7 @@
 
 * Client Orientation: Understand the service needs of clients or stakeholders, and actively focus on anticipating, meeting, and exceeding their needs in a timely and appropriate manner.
 
-## Typical data products the Data Visualisation Engineer will work on
+## Typical data products the Front End Developer (Data) will work on
 
 * Business Intelligence tools help to easily visualise and explore data. It is however constraint by the features offered by the tool and thus not ideal for presenting and telling a story about the data. The Data Visualisation Eningeer will develop bespoke data visualisations and content to communicate complex information in an engaging and accesible way that is easily understandable to the end user.
 
